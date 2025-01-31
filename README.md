@@ -59,7 +59,7 @@ Admins can manage books and orders
 ![image](https://github.com/user-attachments/assets/7e378aa0-14ab-4a8b-a4f9-ed20dd387628)
 
 
-## Result & Accuracy
+## Result 
 
 Performance: The app ensures smooth navigation with optimized API calls.
 
